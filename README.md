@@ -1,4 +1,4 @@
-# **IFreelance: A Freelancing Platform **
+# **IFreelance: A Freelancing Platform**
 
 ## **Project Description**
 
