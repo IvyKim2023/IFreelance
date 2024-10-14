@@ -9,7 +9,7 @@ REST API, Spring Boot, Hibernate
 
 ## **File/Folder Summary**
 
-The endpoints are specified in the controller folder.
+The endpoints are specified in `IFreelance/src/main/java/com/IvyJin/IFreelance/controller`.
 
 ## **Authors and Acknowledgment**
 
